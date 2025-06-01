@@ -1,22 +1,12 @@
-.corner-image {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    width: 150px; /* Adjust size as you like */
-    height: auto;
-    border-radius: 8px; /* Optional: rounded corners */
-  }
-
-  body {
+body {
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
   }
-  
   
   h1, h2 {
-    font-family: 'Roboto', sans-serif;
-    color: rgb(4, 51, 53);
+    margin-left: 20px;
   }
+  
   
   
