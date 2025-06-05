@@ -13,6 +13,11 @@ body {
     width: 150px;
     height: auto; /* keep aspect ratio */
   }
+  #martini-btn {
+    display: block;
+    margin: 40px auto;
+  }
+  
   
   #closet-section {
     padding: 100px 20px;
