@@ -10,9 +10,15 @@ body {
   }
 
   #martini-btn svg {
-    width: 150px;
+    width: 30px;
     height: auto; /* keep aspect ratio */
   }
+  #martini-btn svg:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+
   #martini-btn {
     display: block;
     margin: 40px auto;
